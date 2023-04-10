@@ -1,14 +1,20 @@
 # NEA-ComputerScience
 
-Technologys
--Ray Tracing (Audio???)
--Multi-Threading (Optimisation)
--Particle Simulation (Fluid???)
--Procedural Terrain Generation (2D/3D)
--AI (Generational Learning)
--Path Finding (AI Mazes???)
+ ## Technologys
+- C#
+- Object Oriented Programming
+- OpenGL (Graphics Library??)
+- Unity (Game Engine)
 
--C#
--Object Oriented Programming
--OpenGL (Graphics Library??)
--Unity (Game Engine)
+## Algorithms 
+- Optimisation 
+  - Multi-Threading
+- Procedural Generation
+  - Animation
+  - Terrain (2D/3D)
+- Particle Simulation
+  - Fluid
+- AI 
+  - Generational Learning
+- Path Finding
+  - A*
