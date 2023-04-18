@@ -12,10 +12,11 @@ Create a small, low-poly area of land suitable for exploration by a humanoid cha
 
 ## Artificial Intelligence
 ### Idea
-Generational learning using a points system to determine its level of success
+Generational learning using a points system to determine its level of success. The ai will have vision based on raycasts allowing it to be aware of its surroundings.
 ### Algorithms
 
 ## Inverse Kinematics
 ### Idea
+New foot point is determined by the ai, then with the use of IK the rest of the body can be balanced and moved to its new position.
 ### Algorithms
 [Unity built in IK](https://docs.unity3d.com/Manual/InverseKinematics.html#:~:text=This%20can%20be%20useful%20when%20you%20want%20a,any%20humanoid%20character%20with%20a%20correctly%20configured%20Avatar.)
