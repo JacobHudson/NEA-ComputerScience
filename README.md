@@ -29,3 +29,11 @@ New foot point is determined by the ai, then with the use of IK the rest of the 
 [Reinforcement Learning Algorithms Git Repo, OpenAI](https://github.com/openai/baselines)
 
 [Teaching AI to Walk Video, Code Bullet](https://youtu.be/9amJuvb3grU?list=TLPQMDgwNTIwMjOCUIFdAmslIg)
+
+## Notes from similar Projects
+- The T pose is just a bit back heavy, so they naturally fall back and continue there movement in that direction. Start with weight in forwards direction.
+- Friction is not quite correct making it not actually use their legs to push forward but their lean over weight to pull them.
+- Every bone is the same weight and every joint the same strength which causes strange priorities. 
+- Movement of toes plays an important role when walking and running, so adding another joint behind the toes might help a lot for AI to learn walking. 
+- Killing them only when their head touch the ground and giving serious penalty points for touching their body parts (may differ for front and back also) other than bottom of the feet, also giving less penalty points for hands may force them to learn getting up when they fall. 
+- Encouraging the chest to point at the target would help immensely.
