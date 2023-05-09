@@ -5,7 +5,7 @@
 By Jacob Hudson
 
 ## Technologies
-### Terrain Generation
+### Terrain Generation?
 #### Idea
 Create a small, low-poly area of land suitable for exploration by a humanoid character.
 #### Algorithms
