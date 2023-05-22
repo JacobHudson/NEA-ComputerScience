@@ -4,6 +4,8 @@
 
 By Jacob Hudson
 
+[TODO List](https://trello.com/b/40AqKOCt/ai-locomotion)
+
 ## Technologies
 ### Terrain Generation?
 #### Idea
@@ -23,12 +25,18 @@ New foot point is determined by the ai, then with the use of IK the rest of the 
 #### Algorithms
 [Unity built in IK](https://docs.unity3d.com/Manual/InverseKinematics.html#:~:text=This%20can%20be%20useful%20when%20you%20want%20a,any%20humanoid%20character%20with%20a%20correctly%20configured%20Avatar.)
 
+[Jacobian]()
+
+[CCD]()
+
 ## Papers and Research
 [Proximal Policy Optimization Paper, OpenAI](https://arxiv.org/pdf/1707.06347.pdf)
 
 [Reinforcement Learning Algorithms Git Repo, OpenAI](https://github.com/openai/baselines)
 
 [Teaching AI to Walk Video, Code Bullet](https://youtu.be/9amJuvb3grU?list=TLPQMDgwNTIwMjOCUIFdAmslIg)
+
+[Mathematics for Inverse Kinematics Paper, CMU, Ming Yao](https://www.cs.cmu.edu/~15464-s13/lectures/lecture6/IK.pdf)
 
 ## Notes from similar Projects
 - The T pose is just a bit back heavy, so they naturally fall back and continue there movement in that direction. Start with weight in forwards direction.
