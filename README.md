@@ -38,6 +38,10 @@ New foot point is determined by the ai, then with the use of IK the rest of the 
 
 [Mathematics for Inverse Kinematics Paper, CMU, Ming Yao](https://www.cs.cmu.edu/~15464-s13/lectures/lecture6/IK.pdf)
 
+[Oh My God, I Inverted Kine! Jeff Lander](http://www.darwin3d.com/gamedev/articles/col0998.pdf)
+
+[Making Kine More Flexible, Jeff Lander](https://www.cs.cmu.edu/~15464-s13/lectures/lecture6/jlander_gamedev_nov98.pdf)
+
 ## Notes from similar Projects
 - The T pose is just a bit back heavy, so they naturally fall back and continue there movement in that direction. Start with weight in forwards direction.
 - Friction is not quite correct making it not actually use their legs to push forward but their lean over weight to pull them.
