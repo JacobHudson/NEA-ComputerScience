@@ -42,6 +42,14 @@ New foot point is determined by the ai, then with the use of IK the rest of the 
 
 [Making Kine More Flexible, Jeff Lander](https://www.cs.cmu.edu/~15464-s13/lectures/lecture6/jlander_gamedev_nov98.pdf)
 
+https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/
+
+https://www.geeksforgeeks.org/a-brief-introduction-to-proximal-policy-optimization/
+
+https://arxiv.org/pdf/1707.06347.pdf
+
+https://openai.com/research/openai-baselines-ppo
+
 ## Notes from similar Projects
 - The T pose is just a bit back heavy, so they naturally fall back and continue there movement in that direction. Start with weight in forwards direction.
 - Friction is not quite correct making it not actually use their legs to push forward but their lean over weight to pull them.
