@@ -50,6 +50,8 @@ https://arxiv.org/pdf/1707.06347.pdf
 
 https://openai.com/research/openai-baselines-ppo
 
+https://www.youtube.com/watch?v=HrapVFNBN64
+
 ## Notes from similar Projects
 - The T pose is just a bit back heavy, so they naturally fall back and continue there movement in that direction. Start with weight in forwards direction.
 - Friction is not quite correct making it not actually use their legs to push forward but their lean over weight to pull them.
